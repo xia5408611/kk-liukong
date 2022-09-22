@@ -1,7 +1,7 @@
 # openvpn-liukong4.1
 OpenVPN流控4.1Shell脚本源码<br>
 
-[PHP源码在这里](https://github.com/k-skye/OpenVpn-Flow-Control-System)
+[PHP源码在这里](https://github.com/xia5408611/php-yuan/)
 
 BUG未知<br>
 本脚本仅适用于学习与研究等个人用途,请勿用于任何违法国家法律的活动！<br>
